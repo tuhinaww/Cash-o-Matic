@@ -1,4 +1,4 @@
-## Related Issue
+## Related Issue(s)
 <!--
 Provide information about the issue or bug that is being addressed.
 -->
